@@ -2,11 +2,11 @@
 
 I do not recommend using this repo, as it will a lot of mistakes
 
+# This code is priginally from this repo, so use that:
+https://github.com/snipe-it-com/solana-sniper-bot
+
 # Sniper Bot (Poc)
 Proof of concept
-
-# Originally from this repo:
-https://github.com/snipe-it-com/solana-sniper-bot
 
 ## Setup
 To run the script you need to:
