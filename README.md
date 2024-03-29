@@ -2,6 +2,9 @@
 # Sniper Bot (Poc)
 Proof of concept
 
+# Originally from this repo:
+https://github.com/snipe-it-com/solana-sniper-bot
+
 ## Setup
 To run the script you need to:
 - Create a new empty Solana wallet
