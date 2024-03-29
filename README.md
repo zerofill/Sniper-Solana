@@ -1,3 +1,6 @@
+# Do Not Use This Repo
+
+I do not recommend using this repo, as it will a lot of mistakes
 
 # Sniper Bot (Poc)
 Proof of concept
