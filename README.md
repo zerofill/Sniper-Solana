@@ -1,8 +1,8 @@
 # Do Not Use This Repo
 
-I do not recommend using this repo, as it will a lot of mistakes
+I do not recommend using this repo, as it will have a lot of mistakes
 
-# This code is priginally from this repo, so use that:
+# This code is origionally from this repo, so use that:
 https://github.com/snipe-it-com/solana-sniper-bot
 
 # Sniper Bot (Poc)
